@@ -12,8 +12,10 @@
     <artifactId>proyecto1D</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>proyecto1D</name>
+
     <properties>
         <java.version>17</java.version>
+        <lombok.version>1.18.42</lombok.version>
     </properties>
     <dependencies>
         <dependency>
